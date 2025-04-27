@@ -2,8 +2,10 @@
 This project focuses on monitoring pricing trends across major e-commerce platforms to analyze competitor pricing strategies, identify market trends, and evaluate promotional activities. By scraping product pricing data from different platforms, the project aims to provide insights into competitor strategies and price fluctuations over time.
 
 Presentation Video - https://youtu.be/q6kvtRPQYh4
+
 Questionnaire Video - https://youtu.be/8sb1a38kMXc
 
+Kaggle Dataset Link - https://www.kaggle.com/datasets/manishkc06/electronics-product-pricing-dataset/data
 
 🎯 Objectives
 Scrape real-time product pricing data from Amazon and Paytm Mall.
